@@ -1,4 +1,4 @@
-# Longtun Waterpark Website V4
+# Longtun Waterpark Website
 
 Paket siap deploy dengan dua halaman:
 - `index.html` — landing page utama
@@ -11,8 +11,8 @@ Paket siap deploy dengan dua halaman:
 - Instagram: https://www.instagram.com/longtunwaterpark/
 - TikTok: https://www.tiktok.com/@longtunwaterpark
 
-## Deploy
-Unggah seluruh isi folder ini ke Netlify, Vercel, Cloudflare Pages, GitHub Pages, atau `public_html` cPanel. Jangan hanya mengunggah `index.html`; folder `assets` dan `fasilitas.html` harus ikut diunggah.
+## Tes
+https://longtunwaterpark.netlify.app
 
 
-Pembaruan V5: menu TikTok terpisah, foto seluncuran dan aula resmi dari pengguna, Aula Acara pada fasilitas utama, Camping Ground pada fasilitas pendukung, serta galeri video fasilitas.
+
