@@ -1,4 +1,4 @@
-# 🏊‍♂️ Longtun Waterpark Website
+# 🏊‍♂️ Longtun Waterpark
 
 Selamat datang di repositori resmi situs web **Longtun Waterpark**! Situs web ini dirancang sebagai *landing page* dan portal informasi interaktif untuk pengunjung yang ingin mengetahui fasilitas, lokasi, jam operasional, serta wahana rekreasi yang tersedia di Longtun Waterpark.
 
